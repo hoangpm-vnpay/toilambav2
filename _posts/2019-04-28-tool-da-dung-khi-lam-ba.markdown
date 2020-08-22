@@ -4,7 +4,7 @@ title: Mình đã dùng tools gì khi làm Business Analyst
 date: 2019-04-28 20:00:00 +0700
 description: Những công cụ mình dùng khi làm Business Analyst. Mình muốn chia sẻ những công cụ mà giúp ích mình trong công việc (BA), hi vọng qua bài này có thể giúp bạn đọc tìm hiểu thêm được 1 số công cụ mới, phù hợp với chính bạn. # Add post description (optional)
 image: img/ba-tools.png # Add image post (optional)
-tags: [tools, HoangPhan, BusinessAnalyst, Testing, BA, Agile]
+tags: [tools, Hoang-Phan, Business-Analyst, Testing, BA, Agile]
 
 ---
 

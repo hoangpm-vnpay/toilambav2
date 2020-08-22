@@ -4,7 +4,7 @@ title: Cách người khuyết tật tiếp cận với webiste của bạn – 
 date: 2019-04-19 12:00:20 +0700
 description: Chuyên mục này mình sẽ chia sẻ những kiến thức mình đã tìm hiểu được về WCAG, làm sao người khuyết tật tiếp cận được với sản phẩm của bạn, cách bạn đưa trang web tiếp cận với các đối tượng khuyết tật. # Add post description (optional)
 image: img/wcag1.jpg # Add image post (optional)
-tags: [access, accessibility, WCAG, HoangPhan, Testing, BA]
+tags: [access, accessibility, WCAG, Hoang-Phan, Testing, BA]
 ---
 
 ## Giới thiệu

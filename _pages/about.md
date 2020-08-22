@@ -15,7 +15,7 @@ Chào các anh em, mình là Hoàng Phan - 1 thanh niên đang tập tành làm 
 Hi vọng bạn sẽ thích những bài viết của mình.
 
 ### Liên hệ mình nếu cần:
-* Facebook: [hoangpm96](facebook.com/hoangpm96/)
-* CV: [cv.hoangphan.win](cv.hoangphan.win/)
+* Facebook: [hoangpm96](https://facebook.com/hoangpm96/)
+* CV: [cv.hoangphan.win](https://cv.hoangphan.win/)
 * Số điện thoại: (+84) 32 656 2797
 * LinkedIn: [hoangphan96](https://www.linkedin.com/in/hoangphan96/)

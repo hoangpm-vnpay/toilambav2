@@ -4,7 +4,7 @@ title: Công cụ lao động
 date: 2020-08-20 19:30:00 +0700
 description: Xưa công cụ lao động được sắp xếp theo các kỷ nguyên từ thời kỳ đồ đá -> Đồ đồng -> Đồ sắt -> vậy thời nay, là thời kỳ đồ gì???? Theo mình nghĩ giờ là kỷ nguyên của nền tri thức. # Add post description (optional)
 image: img/congculaodong.jpeg # Add image post (optional)
-tags: [BA, HoangPhan, english, filipino, congculaodong, trithuc]
+tags: [BA, Hoang-Phan, english, filipino, cong-cu-lao-dong, trithuc]
 ---
 
 ## Mục lục

@@ -33,4 +33,3 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
-theme: toilamba
