@@ -4,7 +4,7 @@ title: Công cụ lao động
 date: 2020-08-20 19:30:00 +0700
 description: Xưa công cụ lao động được sắp xếp theo các kỷ nguyên từ thời kỳ đồ đá -> Đồ đồng -> Đồ sắt -> vậy thời nay, là thời kỳ đồ gì???? Theo mình nghĩ giờ là kỷ nguyên của nền tri thức. # Add post description (optional)
 image: img/congculaodong.jpeg # Add image post (optional)
-tags: [BA, Hoang-Phan, english, filipino, cong-cu-lao-dong, trithuc]
+tags: [BA, english, filipino, Công cụ lao động, tri thức]
 ---
 
 ## Mục lục
@@ -54,7 +54,7 @@ Thêm vào đó để hội nhập tốt hơn, dễ dàng trở thành công dâ
 
 Và Tiếng Anh là một ngôn ngữ được sử dụng phổ biến trong công việc ở Việt Nam và nhiều nước trên thế giới, do đó việc nâng cao trình độ Tiếng Anh là một điều thực sự nên làm của người trẻ Việt Nam. 
 
-Và mình cũng đang cung cấp dịch vụ kết nối việc học tiếng Anh giữa học viên ở Việt Nam và giáo viên Filippino, để giúp học viên trở nên tự tin và nói lưu loát hơn với các khóa học Giao tiếp, tiếng Anh trong công việc, TOEIC, IELTs (học 1-1). Liên hệ mình để biết được thông tin nhé, giá từ 5$/60p học.
+Và mình cũng đang cung cấp dịch vụ kết nối việc học tiếng Anh giữa học viên ở Việt Nam và giáo viên Filipino, để giúp học viên trở nên tự tin và nói lưu loát hơn với các khóa học Giao tiếp, tiếng Anh trong công việc, TOEIC, IELTs (học 1-1). Liên hệ mình để biết được thông tin nhé, giá từ 5$/60p học.
 
 ### 4.4 Ngẫm nghĩ thêm
 Ngoài ra gần đây mình cũng nghe được 1 chia sẻ từ anh Viruss, nó thực sự thấm với mình nên cũng muốn chia sẻ lại cho các bạn.

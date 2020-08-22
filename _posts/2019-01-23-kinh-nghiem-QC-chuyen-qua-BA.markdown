@@ -4,7 +4,7 @@ title:  Kinh nghiệm chuyển từ Quality Control sang Business Analyst
 date: 2019-04-19 12:00:20 +0700
 description: Chia sẻ kinh nghiệm để chuyển từ Quality Control qua Business Analyst. Mình phân làm 2 đối tượng. Đối tượng thứ nhất là chưa tìm hiểu gì về BA thì nên apply QC để hiểu về quy trình, cách làm việc trong team, một số kỹ năng về document sau đó mình làm BA tốt hơn. # Add post description (optional)
 image: img/qc-to-ba.png # Add image post (optional)
-tags: [Hoang-Phan, Testing, BA]
+tags: Testing, BA, Business Analyst]
 ---
 ## Mục lục
 *  Auto generated table of contents

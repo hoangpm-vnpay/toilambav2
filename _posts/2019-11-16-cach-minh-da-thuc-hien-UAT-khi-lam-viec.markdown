@@ -4,7 +4,7 @@ title: Cách mình đã thực hiện UAT khi làm việc
 date: 2019-11-16 16:33:20 +0700
 description: Qua bài của mình các bạn có thể biết được mình đã làm UAT ra sao, những cái gì mình đã làm được, những cái gì mình chưa làm được. Và các bạn có thể tự áp dụng vô chính bản thân và cho mình đôi lời nhận xét xem mình đã làm UAT đúng chưa nhé. # Add post description (optional)
 image: img/uat.jpg # Add image post (optional)
-tags: [UAT, Hoang-Phan, Testing, BA]
+tags: [UAT, Testing, BA]
 ---
 
 Bài blog này mình muốn chia sẻ rằng mình đã thực hiện UAT như thế nào ở công ty mình đã làm việc.
