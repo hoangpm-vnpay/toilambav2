@@ -21,11 +21,14 @@
               <i class="ion ion-ios-close-circle-outline"></i>
             </div>
 
-            <div class="nav__title">Menu</div>
+            <div class="nav__title">Mục lục</div>
 
             <ul class="nav__list list-reset">
               <li class="nav__item">
-                <a href="{{site.baseurl}}/" class="nav__link">Home</a>
+                <a href="{{site.baseurl}}/" class="nav__link">Trang chủ</a>
+              </li>
+              <li class="nav__item">
+                <a href="https://cv.hoangphan.win" class="nav__link">CV của tôi</a>
               </li>
               {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}

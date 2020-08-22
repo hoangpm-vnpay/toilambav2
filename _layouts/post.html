@@ -13,7 +13,7 @@ layout: default
 
         <div class="post__info">
           <div class="post__author">
-            <span>By</span>
+            <span>Tác giả</span>
             <a href="{{ site.baseurl }}/about/" class="author-name">{{site.data.settings.author.name}}</a>
           </div>
 
@@ -29,14 +29,14 @@ layout: default
     </div>
   </div>
 
-  {% assign no-image = nil %}
+  <!-- {% assign no-image = nil %}
   {% if page.image %}
     <div class="post__head">
       <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
     </div>
   {% else %}
     {% assign no-image = 'post-no-image' %}
-  {% endif %}
+  {% endif %} -->
 
   </div>
 
@@ -49,9 +49,20 @@ layout: default
       <div class="post__content">
         {{ content }}
       </div>
-
+      <!-- facebook comment -->
+      <div>
+        <div class="comment_title">Bình luận:</div>
+        <div class="fb-comments" data-href="http://toilamba.com{{ page.url }}" data-width="" data-numposts="5"></div>
+      <div
+        class="fb-like"
+        data-share="true"
+        data-width="450"
+        data-show-faces="true">
+      </div>
+      </div>
+      <p></p>
       <div class="post__share">
-        <span class="share__title">Share this article:</span>
+        <span class="share__title">Chia sẻ:</span>
         <ul class="share__list list-reset">
           <li class="share__item">
             <a class="share__facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
@@ -77,7 +88,9 @@ layout: default
           </li>
         </ul>
       </div>
+
     </article>
+
     <!-- end post -->
     </div>
   </div>
@@ -86,7 +99,7 @@ layout: default
   <div class="post__navigation">
     {% if page.previous.url %}
     <div class="prev">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a>
+      <a class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}});background-size: cover;background-repeat: no-repeat;background-position: center;max-width: 600px;margin-left: auto;margin-right: auto;"></a>
       <h2 class="post__nav__title">
         <i class="ion ion-md-arrow-back"></i>
         <a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
@@ -103,7 +116,7 @@ layout: default
 
     {% if page.next.url %}
     <div class="next">
-      <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}})">
+      <a class="post__nav__image" href="{{ site.baseurl }}{{page.next.url}}" style="background-image: url({{site.baseurl}}/images/{{page.next.image}});background-size: cover;background-repeat: no-repeat;background-position: center;max-width: 600px;margin-left: auto;margin-right: auto;">
       </a>
       <h2 class="post__nav__title">
         <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a>
@@ -120,5 +133,4 @@ layout: default
     {% endif %}
   </div>
 
-  {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
-  </div>
+   </div>
