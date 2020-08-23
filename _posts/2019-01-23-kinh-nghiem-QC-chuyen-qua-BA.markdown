@@ -6,10 +6,8 @@ description: Chia sẻ kinh nghiệm để chuyển từ Quality Control qua Bus
 image: img/qc-to-ba.png # Add image post (optional)
 tags: Testing, BA, Business Analyst]
 ---
-## Mục lục
 *  Auto generated table of contents
 {:toc}
-
 ## 1. Giới thiệu
 Hoàng Phan là bạn đại học của mình, hiện tại Hoàng đang là Business Analyst tại Kyanon Digital (2018-2019). Thực ra gọi là phỏng vấn nhưng đây cũng như buổi nói chuyện bình thường giữa mình với Hoàng thôi. Trong buổi nói chuyện còn có [Linh Nguyễn](https://niviki.com/phong-van-ky-su-qc/){:target="_blank"} nữa.
 

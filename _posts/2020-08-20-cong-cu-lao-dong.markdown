@@ -6,12 +6,8 @@ description: Xưa công cụ lao động được sắp xếp theo các kỷ ngu
 image: img/congculaodong.jpeg # Add image post (optional)
 tags: [BA, english, filipino, Công cụ lao động, tri thức]
 ---
-
-## Mục lục
-
 *  Auto generated table of contents
 {:toc}
-
 ## 1. Giới thiệu
 Công cụ lao động không chỉ là những vật dụng, những dụng cụ hiện hữu giúp bạn làm việc tốt hơn. Mà trong thời đại ngày nay, đối với mình thì có một loại công cụ lao động không thể thay thế cho nguồn lao động chất lượng cao. Nếu không có nó, nguồn lao động này không còn là chính nó nữa. Đó chính là “Tri thức”.
 

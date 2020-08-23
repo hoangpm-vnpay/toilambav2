@@ -6,7 +6,6 @@ description: Chuyên mục này mình sẽ chia sẻ những kiến thức mình
 image: img/wcag1.jpg # Add image post (optional)
 tags: [accessibility, WCAG, Testing, BA]
 ---
-
 ## Giới thiệu
 Thời gian vừa rồi mình có tìm hiểu cách để nội dung của một trang web có thể tiếp cận với các đối tượng người dùng khuyết tật như bị khiếm thị, khiếm thính, suy giảm vận động…
 
@@ -24,10 +23,8 @@ Và chuyên mục này mình sẽ chia sẻ những kiến thức mình đã tì
 **+ Phần 3: Lộ trình đưa website đến với người khuyết tật**
 
 # PHẦN 1: HIỂU VỀ WCAG
-**Mục lục:**
 *  Auto generated table of contents
 {:toc}
-
 ## 1. WCAG là gì?
 Để tìm hiểu về cách người khuyết tật tiếp cận với website, thì ta hãy tìm hiểu về bộ tiêu chuẩn WCAG để biết nó giúp gì cho việc tiếp cận nhé.
 

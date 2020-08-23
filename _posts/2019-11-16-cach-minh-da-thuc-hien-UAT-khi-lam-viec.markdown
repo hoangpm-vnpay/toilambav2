@@ -6,14 +6,9 @@ description: Qua bài của mình các bạn có thể biết được mình đ�
 image: img/uat.jpg # Add image post (optional)
 tags: [UAT, Testing, BA]
 ---
-
 Bài blog này mình muốn chia sẻ rằng mình đã thực hiện UAT như thế nào ở công ty mình đã làm việc.
-
-## Mục lục
-
 *  Auto generated table of contents
 {:toc}
-
 ## 1. Giới thiệu
 Ý tưởng bài viết này cũng xuất phát từ câu nói “UAT không phải là kêu BA tới rồi test trong vòng 2h là xong.” trong bài: [UAT (User Acceptance Testing)](https://www.linkedin.com/pulse/user-acceptance-testing-uat-nguyen-duong-hai/){:target="_blank"}. Và vì mình cũng từng UAT với chỉ 2h là xong, do đó ngồi nhìn nhận lại những gì mình đã làm với UAT.
 

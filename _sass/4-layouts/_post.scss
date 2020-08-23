@@ -246,3 +246,26 @@
     margin-bottom: 40px;
   }
 }
+#markdown-toc {
+  display: inline-block;
+  border: 1px solid #aaa;
+  padding: 1rem 1rem 1rem 2rem;
+}
+
+#markdown-toc:before {
+  content: "Mục lục";
+  font-size: 20px;
+  font-weight: bold;
+  color: #393e46;
+}
+
+@media only screen and (min-width: 1024px) {
+  #markdown-toc {
+    position: fixed;
+    background-color: white;
+    bottom: 10px;
+    right: 10px;
+    z-index: 100;
+    border-radius: 15px;
+    width: 300px;
+  }}

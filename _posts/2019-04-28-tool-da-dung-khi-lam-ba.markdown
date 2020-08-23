@@ -5,13 +5,9 @@ date: 2019-04-28 20:00:00 +0700
 description: Những công cụ mình dùng khi làm Business Analyst. Mình muốn chia sẻ những công cụ mà giúp ích mình trong công việc (BA), hi vọng qua bài này có thể giúp bạn đọc tìm hiểu thêm được 1 số công cụ mới, phù hợp với chính bạn. # Add post description (optional)
 image: img/ba-tools.png # Add image post (optional)
 tags: [tools, Business Analyst, Testing, BA, Agile]
-
 ---
-
-## Mục lục
 *  Auto generated table of contents
 {:toc}
-
 ## Giới thiệu
 Mình cũng vừa tiếp cận với vị trí BA trong thời gian cũng không quá lâu, khoảng hơn 7 tháng làm công ty và 2 tháng freelancer với vị trí front-end kết hợp BA.
 
