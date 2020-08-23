@@ -17,5 +17,15 @@ Hi vọng bạn sẽ thích những bài viết của mình.
 ### Liên hệ mình nếu cần:
 * Facebook: [hoangpm96](https://facebook.com/hoangpm96/)
 * CV: [cv.hoangphan.win](https://cv.hoangphan.win/)
-* Số điện thoại: (+84) 32 656 2797
+* Số điện thoại: (+84) 32 656 2797 (Zalo)
 * LinkedIn: [hoangphan96](https://www.linkedin.com/in/hoangphan96/)
+
+### Dịch vụ được cung cấp
+Mình có cung cấp 1 số dịch vụ nếu cần liên hệ mình nhé.
+
+* Phân tích dự án như một IT BA (freelancer) - mình chuyên mảng về fintech, banking,...
+
+* Học tiếng anh với người Filipino (học 1-1 online), nếu học từ 16h/tháng giá sẽ là: 5$/h (Giao tiếp), 6$/h (BUSINESS), 6.5$/h (TOEIC), 7$/h (IELTs)
+
+### Bạn cũng có thể donate cho mình
+* Ví Zalo pay, Momo, VnPay, Moca qua số điện thoại: 0326562797
