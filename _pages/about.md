@@ -10,7 +10,7 @@ Hoang Phan Blog - tôi Làm BA (Business Analyst)
 ![Hoang Phan]({{site.baseurl}}/images/01.jpg)
 *Thanh niên trong hình là tui nha.*
 
-Chào các anh em, mình là Hoàng Phan - 1 thanh niên đang tập tành làm Business Analyst (BA). Mình lập blog này chủ yếu rãnh rãnh lên viết vài bài để lưu lại kiến thức của mình đã học được, chia sẻ quan điểm, kiến thức đến cho người đọc.
+Chào các anh em, Phan Minh Hoàng - 1 thanh niên đang tập tành làm Business Analyst (BA). Mình lập blog này chủ yếu rãnh rãnh lên viết vài bài để lưu lại kiến thức của mình đã học được, chia sẻ quan điểm, kiến thức đến cho người đọc.
 
 Hi vọng bạn sẽ thích những bài viết của mình.
 
